@@ -11,7 +11,7 @@ Solidity version 0.8.19
 
 ## Quickstart
 ```
-git clone https://github.com/toshiiki/foundry-fundme-2023.git
+git clone https://github.com/toshiiki/foundry-smart-contract-lottery-f23.git
 cd foundry-fund-me-2023
 forge install
 ```
